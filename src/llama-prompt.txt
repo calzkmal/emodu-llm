@@ -1,0 +1,23 @@
+Tujuan:
+- a
+- b
+- c
+- d
+
+Tugas:
+- a
+- b
+- c
+- d
+
+Format Masukan:
+- Valence:
+- Arousal:
+- Username:
+- Topik:
+- Nilai Penguatan: 
+
+Format Luaran:
+- Kalimat motivasi
+- b
+- c

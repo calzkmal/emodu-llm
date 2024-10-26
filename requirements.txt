@@ -1,6 +1,15 @@
-langchain==0.3.4
-langchain-community==0.3.3
-langchain-core==0.3.12
-marshmallow==3.23.0
-transformers==4.41.2
+bitsandbytes==0.44.1
+# langchain==0.3.4
+# langchain-community==0.3.3
+# langchain-core==0.3.12
+# marshmallow==3.23.0
+transformers==4.46.0
 sentence-transformers==3.0.1
+peft==0.13.2
+accelerate==1.0.1
+scipy==1.14.1
+evaluate==0.4.3
+rouge_score==0.1.2
+torch==2.5.0
+filelock==3.16.1
+huggingface_hub==0.26.1
